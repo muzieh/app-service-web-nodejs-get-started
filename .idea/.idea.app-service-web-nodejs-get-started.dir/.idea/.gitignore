@@ -1,2 +1,8 @@
 # Default ignored files
 /workspace.xml
+/contentModel.xml
+/modules.xml
+/misc.xml
+/indexLayout.xml
+/vcs.xml
+/projectSettingsUpdater.xml
